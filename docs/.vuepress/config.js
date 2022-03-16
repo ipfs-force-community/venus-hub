@@ -160,32 +160,32 @@ module.exports = {
                 nav: [
                     {
                         text: '交流会',
-                        link: '/meetup/'
+                        link: '/zh/meetup/'
                     },
                     {
                         text: 'Master',
-                        link: '/master/'
+                        link: '/zh/master/'
                     },
                     
                     {
                         text: 'SP孵化',
-                        link: '/incubator/'
+                        link: '/zh/incubator/'
                     },
                     {
                         text: '订单加速',
-                        link: '/accelerator/'
+                        link: '/zh/accelerator/'
                     },
                     {
                         text: '黑客松',
-                        link: '/hackathon/'
+                        link: '/zh/hackathon/'
                     },
                     {
                         text: '联系我们',
-                        link: '/contact/'
+                        link: '/zh/contact/'
                     }, 
                 ],
                 sidebar: {
-                    '/meetup/': [
+                    '/zh/meetup/': [
                         {
                             title: 'Venus 交流会',
                             collapsable: false,
@@ -194,7 +194,7 @@ module.exports = {
                             ]
                         }
                     ],
-                    '/master/': [
+                    '/zh/master/': [
                         {
                             title: 'Venus Master 项目',
                             collapsable: false,
@@ -205,7 +205,7 @@ module.exports = {
                             ]
                         }
                     ],
-                    '/hackathon/': [
+                    '/zh/hackathon/': [
                         {
                             title: '黑客松',
                             collapsable: false,
@@ -214,7 +214,7 @@ module.exports = {
                             ]
                         }
                     ],
-                    '/incubator/': [
+                    '/zh/incubator/': [
                         {
                             title: 'Venus SP 孵化器',
                             collapsable: false,
@@ -225,7 +225,7 @@ module.exports = {
                             ]
                         }
                     ],
-                    '/accelerator/': [
+                    '/zh/accelerator/': [
                         {
                             title: 'Venus 订单加速器',
                             collapsable: false,
@@ -235,7 +235,7 @@ module.exports = {
                             ]
                         }
                     ],
-                    '/contact/': [
+                    '/zh/contact/': [
                         {
                             title: '联系我们',
                             collapsable: false,
