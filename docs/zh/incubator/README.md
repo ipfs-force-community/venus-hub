@@ -1,4 +1,4 @@
-![venus-cluster](../.vuepress/public/incubator.jpg)
+![venus-cluster](../../.vuepress/public/incubator.jpg)
 
 ### Venus SP Incubator 
 

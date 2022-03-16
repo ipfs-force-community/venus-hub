@@ -1,4 +1,4 @@
-![venus-cluster](../.vuepress/public/contact.jpg)
+![venus-cluster](../../.vuepress/public/contact.jpg)
 
 ## Contacts
 

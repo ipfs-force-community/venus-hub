@@ -1,4 +1,4 @@
-![venus-cluster](../.vuepress/public/hackathon.jpg)
+![venus-cluster](../../.vuepress/public/hackathon.jpg)
 
 ### Hackathon
 

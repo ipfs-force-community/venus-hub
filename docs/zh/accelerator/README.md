@@ -1,4 +1,4 @@
-![venus-cluster](../.vuepress/public/accelerator.jpg)
+![venus-cluster](../../.vuepress/public/accelerator.jpg)
 
 ### Venus Deal Accelerator
 
