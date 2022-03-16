@@ -1,0 +1,3 @@
+![venus-cluster](../.vuepress/public/master.jpg)
+
+Venus Master is a program that opens to Venus community members who are willing to provide help to others in community, mainly tech support to SPs. Masters work closely with core team of Venus, earning reward based on the service performance. During the service, masters get to know how Venus work and can get the experience of operation mechanism on Venus. It’s not necessary to own hardware to be a master but basic devop knowledge is required. Come on join the master program, let’s build Venus and Filecoin together! 
