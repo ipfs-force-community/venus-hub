@@ -1,9 +1,6 @@
-# Venus Docs
+# VenusHub
 
-This repository contains documentation content for the [Venus](https://github.com/filecoin-project/venus) implementation **only**. It is hosted at **[venus.filecoin.io](https://venus.filecoin.io)**. For mandarin speakers, please visit [https://venus.filecoin.io/zh/](https://venus.filecoin.io/zh/).
-
-For general [Filecoin Documentation](https://docs.filecoin.io), please visit [docs.filecoin.io](https://docs.filecoin.io). The repository with its source can be found in [/filecoin-project/filecoin-docs](https://github.com/filecoin-project/filecoin-docs).
-
+This repository contains community-driven projects for the [Venus](https://github.com/filecoin-project/venus) implementation of Filecoin. It is hosted at **[venushub.io](https://venus.filecoin.io)**. For mandarin speakers, please visit [https://venushub.io/zh/](https://venus.filecoin.io/zh/).
 
 ## Contributing
 
