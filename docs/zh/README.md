@@ -17,7 +17,7 @@ footer: MIT Apache dual Licensed
   </div>
   
   <div class="feature">
-    <a href="/hackathon"><h2>Web3 Infinity Hackthon</h2></a>
+    <a href="/hackathon"><h2>Hackthon</h2></a>
     <p>Venus相关的开发者黑客松活动</p>
   </div>
 
