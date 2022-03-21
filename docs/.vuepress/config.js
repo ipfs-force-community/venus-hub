@@ -38,8 +38,8 @@ module.exports = {
         },
         '/zh/': {
             lang: 'zh-CN',
-            title: '启明星枢纽',
-            description: '启明星枢纽是一些列启明星相关社区活动的合集',
+            title: 'VenusHub',
+            description: '一个由社区发起的项目，旨在长期支持Venus社区',
         }
     },
     themeConfig: {
@@ -155,11 +155,11 @@ module.exports = {
             '/zh/': {
                 selectText: '选择语言',
                 label: '简体中文',
-                title: '启明星枢纽',
-                description: '启明星枢纽是一个长期的帮助Venus社区的项目合集',
+                title: 'VenusHub',
+                description: '一个由社区发起的项目，旨在长期支持Venus社区',
                 nav: [
                     {
-                        text: '交流会',
+                        text: 'Meetup',
                         link: '/zh/meetup/'
                     },
                     {
@@ -168,15 +168,15 @@ module.exports = {
                     },
                     
                     {
-                        text: 'SP孵化',
+                        text: 'SP Incubator',
                         link: '/zh/incubator/'
                     },
                     {
-                        text: '订单加速',
+                        text: 'Deal Accelerator',
                         link: '/zh/accelerator/'
                     },
                     {
-                        text: '黑客松',
+                        text: 'Hackathon',
                         link: '/zh/hackathon/'
                     },
                     {
@@ -187,7 +187,7 @@ module.exports = {
                 sidebar: {
                     '/zh/meetup/': [
                         {
-                            title: 'Venus 交流会',
+                            title: 'Venus Meetup',
                             collapsable: false,
                             children: [
                                 ['', '概述'],
@@ -196,7 +196,7 @@ module.exports = {
                     ],
                     '/zh/master/': [
                         {
-                            title: 'Venus Master 项目',
+                            title: 'Venus Master',
                             collapsable: false,
                             children: [
                                 ['', '概述'],
@@ -207,7 +207,7 @@ module.exports = {
                     ],
                     '/zh/hackathon/': [
                         {
-                            title: '黑客松',
+                            title: 'Hackathon',
                             collapsable: false,
                             children: [
                                 ['', '概述'],
@@ -216,7 +216,7 @@ module.exports = {
                     ],
                     '/zh/incubator/': [
                         {
-                            title: 'Venus SP 孵化器',
+                            title: 'Venus SP Incubator',
                             collapsable: false,
                             children: [
                                 ['', '概述'],
@@ -227,7 +227,7 @@ module.exports = {
                     ],
                     '/zh/accelerator/': [
                         {
-                            title: 'Venus 订单加速器',
+                            title: 'Venus Deal Accelerator',
                             collapsable: false,
                             children: [
                                 ['', '概述'],

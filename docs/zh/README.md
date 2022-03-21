@@ -1,37 +1,37 @@
 ---
 home: true
 heroImage: /assets/venus-logo-02.png
-actionText: Get Started →
-actionLink: /guide/
+actionText: 开始 →
+actionLink: /meetup/
 footer: MIT Apache dual Licensed 
 ---
 
 <div class="features">
   <div class="feature">
     <a href="/meetup"><h2>Venus Meetup</h2></a>
-    <p>Online meetup connecting all that are interested in Venus</p>
+    <p>链接所有Venus爱好者的线上会议</p>
   </div>
   <div class="feature">
     <a href="/master"><h2>Venus Master</h2></a>
-    <p>Recruiting master who helps SPs to deploy Venus and solve tech questions</p>
+    <p>招募有能力的支持者帮助社区和SP</p>
   </div>
   
   <div class="feature">
     <a href="/hackathon"><h2>Web3 Infinity Hackthon</h2></a>
-    <p>Venus related development competition opens to capable individuals and groups</p>
+    <p>Venus相关的开发者黑客松活动</p>
   </div>
 
   <div class="feature">
     <a href="/incubation"><h2>Venus Incubation Center</h2></a>
-    <p>Supporting SPs who wants to run Filecoin on Venus</p>
+    <p>支持在FIlecoin网络部署Venus的SP</p>
   </div>
 
   <div class="feature">
     <a href="/accelerator"><h2>Venus Deal Accelerator</h2></a>
-    <p>Supporting SPs who wants to take verified storage deal on Venus Network</p>
+    <p>支持使用Venus的SP接单真实数据</p>
   </div>
   
    <div class="feature">
-    <a href="/contact"><h2>More to come...</h2></a>
+    <a href="/contact"><h2>更多...</h2></a>
   </div>
 </div>
