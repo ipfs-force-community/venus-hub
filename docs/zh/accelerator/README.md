@@ -2,6 +2,8 @@
 
 ### Venus Deal Accelerator
 
-数据质量是分布式存储网络的关键价值因素之一。 Filecoin欢迎有真实存储需求的客户使用SP提供的存储服务。采用Venus使SP更容易在 Filecoin 上进行真正的存储交易。
+Venus致力于为大体量的存储客户和存储提供者提供功能完备的订单体验。随着Filecoin网络的发展和社区努力实现更多的存储订单，Venus社区也为此正面迎接挑战，通过`Venus Deal Accelerator`项目帮助塑造这一愿景。
 
-为了鼓励 SP 接受更多有价值的数据存储在Filecoin上，Venus将启动Venus Deal Accelerator计划。该计划提供具有Datacap的合格数据源，并承担运行Venus的SP节点在数据传输中所需消耗的费用。 
+`Venus Deal Accelerator`项目的目标是向更广泛的存储提供者社区分发尽可能多的存储订单，重点是将存储提供者已经熟悉的密封体验与Filecoin订单体验无缝连接起来。`Venus Deal Accelerator`项目将负责向[fil-plus](https://filecoinproject.slack.com/archives/C01DLAPKDGX)申请对应公开大数据集的datacap，并将存储订单分发给运行`Venus`存储系统的参与者。
+
+我们期待在Deal Accelerator中见到您！
