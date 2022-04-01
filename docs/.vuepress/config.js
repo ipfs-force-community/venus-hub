@@ -19,9 +19,10 @@ module.exports = {
         '@vuepress/nprogress',
         '@vuepress/medium-zoom',
         '@vuepress-plugin-zooming',
-        ['@vuepress/plugin-google-analytics',
+        // ['@vuepress/plugin-google-analytics',
+        ['@vuepress/google-analytics',
             {
-                ga: 'G-XSL9Y6KHQGP' // Property: Filecoin Docs
+                'ga': 'G-XSL9Y6KHQGP' // Property: Filecoin Docs
             }
         ],
         ['vuepress-plugin-code-copy', true]
