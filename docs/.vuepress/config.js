@@ -22,7 +22,7 @@ module.exports = {
         // ['@vuepress/plugin-google-analytics',
         ['@vuepress/google-analytics',
             {
-                'ga': 'G-XSL9Y6KHQGP' // Property: Filecoin Docs
+                'ga': 'G-XSL9Y6KHQG' // Property: Filecoin Docs
             }
         ],
         ['vuepress-plugin-code-copy', true]
