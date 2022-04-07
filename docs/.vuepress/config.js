@@ -20,15 +20,29 @@ module.exports = {
         '@vuepress/medium-zoom',
         '@vuepress-plugin-zooming',
         // ['@vuepress/plugin-google-analytics',
-        ['@vuepress/google-analytics',
-            {
-                'ga': 'G-XSL9Y6KHQG' // Property: Filecoin Docs
-            }
-        ],
+        // ['@vuepress/google-analytics',
+        //     {
+        //         'ga': 'G-XSL9Y6KHQG' // Property: Filecoin Docs
+        //     }
+        // ],
         ['vuepress-plugin-code-copy', true]
     ],
     head: [
-        ['link', {rel: 'icon', href: '/assets/venus-logo-04.png'}]
+        ['link', {rel: 'icon', href: '/assets/venus-logo-04.png'}],
+        [
+            'script',
+            {
+                async: true,
+                src: 'https://www.googletagmanager.com/gtag/js?id=G-XSL9Y6KHQG',
+            },
+        ],
+        [
+            'script',
+            {},
+            [
+                "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-XSL9Y6KHQG');",
+            ],
+        ],
         // ['link', {rel: 'icon', href: '/assets/venus-logo-04.jpg'}]
     ],
     locales: {
