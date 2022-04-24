@@ -141,8 +141,9 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 ['', 'Overview'],
-                                ['p3.md', 'Phase 3 (Coming)'],
-                                ['p1p2.md', 'Phase 1&2 (End)'],
+                                ['process.md', 'Participation process'],                
+                                ['p3.md', 'Phase 3 (on-going)'],
+                                ['p1p2.md', 'Phase 1&2 (end)'],
                             ]
                         }
                     ],
@@ -235,8 +236,9 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 ['', '概述'],
-                                ['p3.md', 'Phase 3 (Coming)'],
-                                ['p1p2.md', 'Phase 1&2 (End)'],
+                                ['process.md', '参与流程'],
+                                ['p3.md', 'Phase 3 (进行中)'],
+                                ['p1p2.md', 'Phase 1&2 (end)'],
                             ]
                         }
                     ],
