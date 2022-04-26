@@ -22,7 +22,7 @@ footer: MIT Apache dual Licensed
   </div>
 
   <div class="feature">
-    <a href="/incubation"><h2>Venus SP Incubator</h2></a>
+    <a href="/incubator"><h2>Venus SP Incubator</h2></a>
     <p>Supporting SPs who want to run Filecoin on Venus</p>
   </div>
 
