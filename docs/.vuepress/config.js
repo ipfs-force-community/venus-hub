@@ -153,7 +153,7 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 ['', 'Overview'],
-                                ['p1.md', 'Phase 1 (Coming)'],
+                                ['p1.md', 'Phase 1'],
                             ]
                         }
                     ],
@@ -248,7 +248,7 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 ['', '概述'],
-                                ['p1.md', 'Phase 1 (Coming)'],
+                                ['p1.md', 'Phase 1'],
                             ]
                         }
                     ],
