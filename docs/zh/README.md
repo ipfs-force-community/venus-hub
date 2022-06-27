@@ -17,12 +17,12 @@ footer: MIT Apache dual Licensed
   </div>
   
   <div class="feature">
-    <a href="/zh/hackathon"><h2>Hackthon</h2></a>
+    <a href="/zh/hackathon"><h2>Hackathon</h2></a>
     <p>Venus相关的开发者黑客松活动</p>
   </div>
 
   <div class="feature">
-    <a href="/zh/incubator"><h2>Venus SP Incubatior</h2></a>
+    <a href="/zh/incubator"><h2>Venus SP Incubator</h2></a>
     <p>支持在FIlecoin网络部署Venus的SP</p>
   </div>
 

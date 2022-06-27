@@ -132,6 +132,7 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 ['', 'Overview'],
+                                ['w3i.md', 'Web3 Infinity Hackathon'],
                             ]
                         }
                     ],
@@ -227,6 +228,7 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 ['', '概述'],
+                                ['w3i.md', 'Web3 Infinity Hackathon'],
                             ]
                         }
                     ],
