@@ -31,7 +31,10 @@ footer: MIT Apache dual Licensed
     <p>Supporting SPs who want to take verified storage deal on Venus Network</p>
   </div>
   
-   <div class="feature">
-    <a href="/contact"><h2>More to come...</h2></a>
-  </div>
+  <div class="feature">
+    <a href="https://www.youtube.com/watch?v=vvUgNMwGDWs" target="_blank"><h2>Venus Product Video</h2></a>
+  </div>  
 </div>
+
+
+
