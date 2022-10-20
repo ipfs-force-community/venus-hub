@@ -154,6 +154,7 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 ['', 'Overview'],
+                                ['client-track.md', 'VDA - Client Track'],
                                 ['p1.md', 'Phase 1'],
                             ]
                         }
