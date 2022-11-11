@@ -101,6 +101,10 @@ module.exports = {
                         link: '/hackathon/'
                     },
                     {
+                        text: 'Service',
+                        link: '/service/'
+                    },
+                    {
                         text: 'Contact Us',
                         link: '/contact/'
                     },               
@@ -159,6 +163,15 @@ module.exports = {
                             ]
                         }
                     ],
+                    '/service/': [
+                        {
+                            title: 'Venus Service',
+                            collapsable: false,
+                            children: [
+                                ['', 'Overview'],
+                            ]
+                        }
+                    ],
                     '/contact/': [
                         {
                             title: 'Contact Us',
@@ -196,6 +209,10 @@ module.exports = {
                     {
                         text: 'Hackathon',
                         link: '/zh/hackathon/'
+                    },
+                    {
+                        text: 'Service',
+                        link: '/zh/service/'
                     },
                     {
                         text: '联系我们',
@@ -253,6 +270,15 @@ module.exports = {
                                 ['', '概述'],
                                 ['client-track.md', 'VDA - 存储客户'],
                                 ['p1.md', 'Phase 1'],
+                            ]
+                        }
+                    ],
+                    '/zh/service/': [
+                        {
+                            title: 'Venus代理运维',
+                            collapsable: false,
+                            children: [
+                                ['', '概述'],
                             ]
                         }
                     ],
