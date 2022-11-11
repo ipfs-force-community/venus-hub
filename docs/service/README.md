@@ -16,8 +16,9 @@ Three months of free service, deploying Venus and making sure the node is runnin
 The SPs who are using Lotus, Venus or any implementations. 
 If you are: 
 
-    a. Owning servers and leasing one's own IDC, but lack of Devops to run Filcoin. Node QAP higher than 5PiB
-    b. SP who starts from scratch
+a. Owning servers and leasing one's own IDC, but lack of Devops to run Filcoin. Node QAP higher than 5PiB
+
+b. SP who starts from scratch
 
 Don't hesitate to contact with us (email)
 
