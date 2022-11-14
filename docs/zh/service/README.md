@@ -1,3 +1,5 @@
+![venus-cluster](../../.vuepress/public/ros.jpg)
+
 # Venus代运维服务简介
 
 社区的第三方技术服务组织，作为Venus Community的长期支持者和Venus软件专家，将为社区成员提供Filecoin集群Venus软件免费代运维服务。第三方服务组织将提供3个月的免费远程代运维服务，包括在Filecoin主网调通部署Venus和对集群的持续监控和告警。

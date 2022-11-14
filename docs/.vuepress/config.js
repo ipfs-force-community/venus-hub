@@ -160,6 +160,7 @@ module.exports = {
                                 ['', 'Overview'],
                                 ['client-track.md', 'VDA - Client Track'],
                                 ['p1.md', 'Phase 1'],
+                                ['why-f+.md', 'Why fplus?'],
                             ]
                         }
                     ],
