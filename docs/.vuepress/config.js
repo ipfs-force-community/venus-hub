@@ -101,7 +101,7 @@ module.exports = {
                         link: '/hackathon/'
                     },
                     {
-                        text: 'Service',
+                        text: 'Remote Ops',
                         link: '/service/'
                     },
                     {
@@ -211,7 +211,7 @@ module.exports = {
                         link: '/zh/hackathon/'
                     },
                     {
-                        text: 'Service',
+                        text: '代运维',
                         link: '/zh/service/'
                     },
                     {
