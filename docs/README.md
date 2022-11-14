@@ -32,7 +32,7 @@ footer: MIT Apache dual Licensed
   </div>
   
   <div class="feature">
-    <a href="https://www.youtube.com/watch?v=vvUgNMwGDWs" target="_blank"><h2>Venus Product Video</h2></a>
+    <a href="/service"><h2>Remote Operation Service</h2></a>
   </div>  
 </div>
 

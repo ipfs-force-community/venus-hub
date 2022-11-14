@@ -1,4 +1,4 @@
-# Free Remote Operation Service Introduction: 
+# Free Remote Operation Service Introduction 
 
 We hear you! 
 
@@ -6,12 +6,12 @@ Venus community has been operating Venus SP Incubator for almost a year, among t
 
 A thrid party organization who has the ability to provide business level service is willing to share their talent. The remote operation service will be free of charge in the first three months which also means the organization will help SPs finish the first time deployment of Venus remotely to build a node. 
 
-## Service Content: 
+## Service Content
 
 Three months of free service, deploying Venus and making sure the node is running smoothly on Filecoin. Providing thorough solution based on user's equipments. 
 
 
-## Target Audience: 
+## Target Audience
 
 The SPs who are using Lotus, Venus or any implementations. 
 If you are: 
@@ -22,7 +22,7 @@ b. SP who starts from scratch.
 
 Don't hesitate to contact with [us](mailto:venus@ipfsforce.com).
 
-## Service Process: 
+## Service Process
 
 1. SP fills the application form and then Venus team will contact with the SP to know basic information of the node.
 2. The third party service team will provide the SP with a plan.
@@ -30,7 +30,7 @@ Don't hesitate to contact with [us](mailto:venus@ipfsforce.com).
 4. The third party starts deployment and keeps remotely monitoring.
 5. When the service is end, the service team will hand over the work back to SP.
 
-## Disclaimer: 
+## Disclaimer
 
 The third party organization in this program has rich experience on deployment of implementations on Filecoin not only on Venus but also on Lotus.However the network is at an early stage and there are many times of network upgrades, the voluneteers are not taking responsibility of the performance of SP output and any third party loss from the operating. 
 
@@ -38,11 +38,11 @@ Users should provide storage service under the permission by law. If the SP is n
 
 Users should not use or represent "Venus Official" to promote their own business. 
 
-## Other Service: 
+## Other Service
 
 The third party can provide longer period of remote storage providing operation service and consulting service on hardware purchasing.
 
-## Common Questions: 
+## Common Questions
 
 1. Devops requires users to provide remote access to servers, but will not directly contact fil assets
 2. The Venus team will do a preliminary screening of the user's equipment. Very old equipment is not recommended to access the filecoin network. Becuase there will be many cases of punishment of collaterals.
