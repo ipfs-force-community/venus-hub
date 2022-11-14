@@ -158,9 +158,9 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 ['', 'Overview'],
+                                ['why-f+.md', 'Why filplus?'],
                                 ['client-track.md', 'VDA - Client Track'],
                                 ['p1.md', 'Phase 1'],
-                                ['why-f+.md', 'Why fplus?'],
                             ]
                         }
                     ],
