@@ -51,3 +51,7 @@ The third party can provide longer period of remote storage providing operation 
 3. At this moment, we only support equipments that are deployed in a data center.
 4. An user should provided the list of equipments at once, and the new hardware or parts that do not match the device list during the service process cannot guarantee timely deployment and operation and maintenance.
 5. The three-month free service period starts from the signing of the contract by both parties.
+
+## Contact Us
+
+Please fill out application form [here](http://venusteam.mikecrm.com/nhbQoEW) and our representitive will be reaching out to you.
