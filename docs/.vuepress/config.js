@@ -86,8 +86,7 @@ module.exports = {
                     {
                         text: 'Master',
                         link: '/master/'
-                    },
-                    
+                    },              
                     {
                         text: 'SP Incubator',
                         link: '/incubator/'
@@ -95,10 +94,6 @@ module.exports = {
                     {
                         text: 'Deal Accelerator',
                         link: '/accelerator/'
-                    },
-                    {
-                        text: 'Hackathon',
-                        link: '/hackathon/'
                     },
                     {
                         text: 'Remote Ops',
@@ -125,18 +120,8 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 ['', 'Overview'],
-                                ['p2.md', 'Phase 2 (on-going)'],
-                                ['p1.md', 'Phase 1 (end)'],
-                            ]
-                        }
-                    ],
-                    '/hackathon/': [
-                        {
-                            title: 'Hackathon',
-                            collapsable: false,
-                            children: [
-                                ['', 'Overview'],
-                                ['w3i.md', 'Web3 Infinity Hackathon'],
+                                ['p2.md', 'Phase 2 (finished)'],
+                                ['p1.md', 'Phase 1 (finished)'],
                             ]
                         }
                     ],
@@ -147,8 +132,9 @@ module.exports = {
                             children: [
                                 ['', 'Overview'],
                                 ['process.md', 'Participation process'],                
-                                ['p3.md', 'Phase 3 (on-going)'],
-                                ['p1p2.md', 'Phase 1&2 (end)'],
+                                ['p4.md', 'Phase 4'],
+                                ['p3.md', 'Phase 3 (finished)'],
+                                ['p1p2.md', 'Phase 1&2 (finished)'],
                             ]
                         }
                     ],
@@ -160,7 +146,8 @@ module.exports = {
                                 ['', 'Overview'],
                                 ['why-f+.md', 'Why filplus?'],
                                 ['client-track.md', 'VDA - Client Track'],
-                                ['p1.md', 'Phase 1'],
+                                ['p2.md', 'Phase 2'],
+                                ['p1.md', 'Phase 1 (finished)'],
                             ]
                         }
                     ],
@@ -208,10 +195,6 @@ module.exports = {
                         link: '/zh/accelerator/'
                     },
                     {
-                        text: 'Hackathon',
-                        link: '/zh/hackathon/'
-                    },
-                    {
                         text: '代运维',
                         link: '/zh/service/'
                     },
@@ -236,18 +219,8 @@ module.exports = {
                             collapsable: false,
                             children: [
                                 ['', '概述'],
-                                ['p2.md', 'Phase 2 (on-going)'],
-                                ['p1.md', 'Phase 1 (end)'],
-                            ]
-                        }
-                    ],
-                    '/zh/hackathon/': [
-                        {
-                            title: 'Hackathon',
-                            collapsable: false,
-                            children: [
-                                ['', '概述'],
-                                ['w3i.md', 'Web3 Infinity Hackathon'],
+                                ['p2.md', 'Phase 2（结束）'],
+                                ['p1.md', 'Phase 1（结束）'],
                             ]
                         }
                     ],
@@ -258,8 +231,9 @@ module.exports = {
                             children: [
                                 ['', '概述'],
                                 ['process.md', '参与流程'],
-                                ['p3.md', 'Phase 3 (进行中)'],
-                                ['p1p2.md', 'Phase 1&2 (end)'],
+                                ['p4.md', 'Phase 4'],
+                                ['p3.md', 'Phase 3（结束）'],
+                                ['p1p2.md', 'Phase 1&2（结束）'],
                             ]
                         }
                     ],
@@ -270,7 +244,8 @@ module.exports = {
                             children: [
                                 ['', '概述'],
                                 ['client-track.md', 'VDA - 存储客户'],
-                                ['p1.md', 'Phase 1'],
+                                ['p2.md', 'Phase 2'],
+                                ['p1.md', 'Phase 1（结束）'],
                             ]
                         }
                     ],
