@@ -16,11 +16,13 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Install and Build 
+      - name: Use node 16
         uses: actions/setup-node@v3
         with:
           node-version: '16.x'
-        run: |
+
+      - name: Install and Build 
+        run:
           npm install
           npm run docs:build
       - name: Deploy 
