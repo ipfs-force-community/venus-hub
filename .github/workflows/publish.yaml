@@ -17,11 +17,11 @@ jobs:
           persist-credentials: false
 
       - name: Install and Build 
+        with:
+          node-version: '16.x'
         run: |
           npm install
           npm run docs:build
-        with:
-          node-version: '16.x'
       - name: Deploy 
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
