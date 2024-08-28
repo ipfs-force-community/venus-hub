@@ -87,14 +87,14 @@ module.exports = {
                         text: 'Master',
                         link: '/master/'
                     },              
-                    {
-                        text: 'SP Incubator',
-                        link: '/incubator/'
-                    },
-                    {
-                        text: 'Deal Accelerator',
-                        link: '/accelerator/'
-                    },
+                    // {
+                    //     text: 'SP Incubator',
+                    //     link: '/incubator/'
+                    // },
+                    // {
+                    //     text: 'Deal Accelerator',
+                    //     link: '/accelerator/'
+                    // },
                     {
                         text: 'Remote Ops',
                         link: '/service/'
@@ -125,32 +125,32 @@ module.exports = {
                             ]
                         }
                     ],
-                    '/incubator/': [
-                        {
-                            title: 'Venus SP Incubator',
-                            collapsable: false,
-                            children: [
-                                ['', 'Overview'],
-                                ['process.md', 'Participation process'],                
-                                ['p4.md', 'Phase 4'],
-                                ['p3.md', 'Phase 3 (finished)'],
-                                ['p1p2.md', 'Phase 1&2 (finished)'],
-                            ]
-                        }
-                    ],
-                    '/accelerator/': [
-                        {
-                            title: 'Venus Deal Accelerator',
-                            collapsable: false,
-                            children: [
-                                ['', 'Overview'],
-                                ['why-f+.md', 'Why filplus?'],
-                                ['client-track.md', 'VDA - Client Track'],
-                                ['p2.md', 'Phase 2'],
-                                ['p1.md', 'Phase 1 (finished)'],
-                            ]
-                        }
-                    ],
+                    // '/incubator/': [
+                    //     {
+                    //         title: 'Venus SP Incubator',
+                    //         collapsable: false,
+                    //         children: [
+                    //             ['', 'Overview'],
+                    //             ['process.md', 'Participation process'],                
+                    //             ['p4.md', 'Phase 4'],
+                    //             ['p3.md', 'Phase 3 (finished)'],
+                    //             ['p1p2.md', 'Phase 1&2 (finished)'],
+                    //         ]
+                    //     }
+                    // ],
+                    // '/accelerator/': [
+                    //     {
+                    //         title: 'Venus Deal Accelerator',
+                    //         collapsable: false,
+                    //         children: [
+                    //             ['', 'Overview'],
+                    //             ['why-f+.md', 'Why filplus?'],
+                    //             ['client-track.md', 'VDA - Client Track'],
+                    //             ['p2.md', 'Phase 2'],
+                    //             ['p1.md', 'Phase 1 (finished)'],
+                    //         ]
+                    //     }
+                    // ],
                     '/service/': [
                         {
                             title: 'Venus Service',
@@ -186,14 +186,14 @@ module.exports = {
                         link: '/zh/master/'
                     },
                     
-                    {
-                        text: 'SP Incubator',
-                        link: '/zh/incubator/'
-                    },
-                    {
-                        text: 'Deal Accelerator',
-                        link: '/zh/accelerator/'
-                    },
+                    // {
+                    //     text: 'SP Incubator',
+                    //     link: '/zh/incubator/'
+                    // },
+                    // {
+                    //     text: 'Deal Accelerator',
+                    //     link: '/zh/accelerator/'
+                    // },
                     {
                         text: '代运维',
                         link: '/zh/service/'
@@ -224,31 +224,31 @@ module.exports = {
                             ]
                         }
                     ],
-                    '/zh/incubator/': [
-                        {
-                            title: 'Venus SP Incubator',
-                            collapsable: false,
-                            children: [
-                                ['', '概述'],
-                                ['process.md', '参与流程'],
-                                ['p4.md', 'Phase 4'],
-                                ['p3.md', 'Phase 3（结束）'],
-                                ['p1p2.md', 'Phase 1&2（结束）'],
-                            ]
-                        }
-                    ],
-                    '/zh/accelerator/': [
-                        {
-                            title: 'Venus Deal Accelerator',
-                            collapsable: false,
-                            children: [
-                                ['', '概述'],
-                                ['client-track.md', 'VDA - 存储客户'],
-                                ['p2.md', 'Phase 2'],
-                                ['p1.md', 'Phase 1（结束）'],
-                            ]
-                        }
-                    ],
+                    // '/zh/incubator/': [
+                    //     {
+                    //         title: 'Venus SP Incubator',
+                    //         collapsable: false,
+                    //         children: [
+                    //             ['', '概述'],
+                    //             ['process.md', '参与流程'],
+                    //             ['p4.md', 'Phase 4'],
+                    //             ['p3.md', 'Phase 3（结束）'],
+                    //             ['p1p2.md', 'Phase 1&2（结束）'],
+                    //         ]
+                    //     }
+                    // ],
+                    // '/zh/accelerator/': [
+                    //     {
+                    //         title: 'Venus Deal Accelerator',
+                    //         collapsable: false,
+                    //         children: [
+                    //             ['', '概述'],
+                    //             ['client-track.md', 'VDA - 存储客户'],
+                    //             ['p2.md', 'Phase 2'],
+                    //             ['p1.md', 'Phase 1（结束）'],
+                    //         ]
+                    //     }
+                    // ],
                     '/zh/service/': [
                         {
                             title: 'Venus代理运维',
