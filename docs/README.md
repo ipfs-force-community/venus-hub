@@ -36,7 +36,7 @@ footer: MIT Apache dual Licensed
   </div>  
   <div class="feature">
     <a href="/pubic service"><h2>Public services</h2></a>
-    <p>Offering public services:Proof Param Service, Snapshot Service, and DRand Service</p>
+    <p>Offering public services: Proof Param Service, Snapshot Service, and DRand Service</p>
   </div>  
 </div>
 
