@@ -35,7 +35,8 @@ footer: MIT Apache dual Licensed
     <a href="/service"><h2>Remote Operation Service</h2></a>
   </div>  
   <div class="feature">
-    <a href="/pubic service"><h2>Public services:Proof Param Service, Snapshot Service, and DRand Service</h2></a>
+    <a href="/pubic service"><h2>Public services</h2></a>
+    <p>Offering public services:Proof Param Service, Snapshot Service, and DRand Service</p>
   </div>  
 </div>
 
